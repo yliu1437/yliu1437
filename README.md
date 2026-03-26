@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yliu1437&left_color=green&right_color=red)
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,;everyone)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yliu1437)
